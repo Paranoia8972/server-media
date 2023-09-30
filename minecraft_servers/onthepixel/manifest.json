@@ -24,6 +24,11 @@
       "name": "BuildFFA",
       "command": "/bffa"
     }
+    },
+    "tntrun":{
+      "name": "TNTRun",
+      "command": "/tntr"
+    }
   },
   "discord": {
     "server_id": 1051287687233015841,
