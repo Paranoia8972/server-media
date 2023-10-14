@@ -28,7 +28,11 @@
     "tntrun":{
       "name": "TNTRun",
       "command": "/tntr"
-    }
+    },
+      "speedbridge":{
+      "name": "SpeedBridge",
+      "command": "/sb"
+    },
   },
   "discord": {
     "server_id": 1051287687233015841,
