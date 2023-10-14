@@ -23,7 +23,6 @@
     "buildffa":{
       "name": "BuildFFA",
       "command": "/bffa"
-    }
     },
     "tntrun":{
       "name": "TNTRun",
@@ -32,7 +31,7 @@
       "speedbridge":{
       "name": "SpeedBridge",
       "command": "/sb"
-    },
+      }
   },
   "discord": {
     "server_id": 1051287687233015841,
