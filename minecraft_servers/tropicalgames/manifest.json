@@ -1,0 +1,18 @@
+{
+  "server_name": "tropicalgames",
+  "nice_name": "TropicalGames",
+  "direct_ip": "tropicalgames.de",
+   "server_wildcards":[
+     "%.tropicalgames.de"
+  ],
+  "social": {
+    "web": "https://tropicalgames.de",
+    "tiktok": "TropicalGames",
+    "instagram": "TropicalGames",
+    "discord": "https://discord.gg/wkTgQtX5Fz",
+  },
+  "brand": {
+     "primary": "#001414",
+     "background": "#008cd3"
+  }
+}
